@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\jpscott\\desktop\\ch14-16pretest\\employeelibrary\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\jpscott\\desktop\\ch14-16pretest\\employeelibrary\\pieceworkeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\pieceworkeremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\jpscott\\desktop\\ch14-16pretest\\employeelibrary\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|c:\\users\\jpscott\\desktop\\ch14-16pretest\\employeelibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2090A5-492B-4245-9C98-0B822CAD9D4E}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\Validator.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Validator.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\Validator.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Validator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:21:45.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PieceworkerEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\PieceworkerEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\PieceworkerEmployee.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\PieceworkerEmployee.cs",
+              "RelativeToolTip": "EmployeeLibrary\\PieceworkerEmployee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:21:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\HourlyEmployee.cs",
+              "RelativeToolTip": "EmployeeLibrary\\HourlyEmployee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:19:53.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch14-16Pretest\\EmployeeLibrary\\Employee.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:19:05.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
